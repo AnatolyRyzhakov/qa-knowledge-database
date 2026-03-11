@@ -1,0 +1,40 @@
+<svg width="720" height="620" viewBox="0 0 720 620" xmlns="http://www.w3.org/2000/svg">
+
+<style>
+.title { font-family: Arial, sans-serif; font-size: 24px; font-weight: bold; fill:#222; text-anchor: middle;}
+.label { font-family: Arial, sans-serif; font-size: 16px; font-weight: bold; fill:#222; text-anchor: middle;}
+.text { font-family: Arial, sans-serif; font-size: 13px; fill:#222; text-anchor: middle;}
+.whitelabel { font-family: Arial, sans-serif; font-size: 16px; font-weight: bold; fill:white; text-anchor: middle;}
+.whitetext { font-family: Arial, sans-serif; font-size: 13px; fill:white; text-anchor: middle;}
+</style>
+
+<!-- Title -->
+<text x="360" y="40" class="title">Testing Trophy</text>
+
+<!-- Base: Static Analysis -->
+<polygon points="80,540 640,540 600,480 120,480" fill="#37474F"/>
+
+<text x="360" y="505" class="whitelabel">Static Analysis</text>
+<text x="360" y="525" class="whitetext">TypeScript • ESLint • Prettier</text>
+
+<!-- Stem: Unit -->
+<polygon points="310,480 410,480 390,410 330,410" fill="#43A047"/>
+
+<text x="360" y="445" class="label">Unit</text>
+<text x="360" y="463" class="text">Небольшое количество</text>
+
+<!-- Main Bowl: Integration -->
+<polygon points="200,410 520,410 600,280 120,280" fill="#FB8C00"/>
+
+<text x="360" y="320" class="label">Integration</text>
+<text x="360" y="345" class="text">Основной фокус тестирования</text>
+<text x="360" y="365" class="text">UI-компоненты работают вместе</text>
+<text x="360" y="385" class="text">Frontend + Mock API</text>
+
+<!-- Top: E2E -->
+<polygon points="300,280 420,280 380,210 340,210" fill="#C62828"/>
+
+<text x="360" y="240" class="label">E2E</text>
+<text x="360" y="258" class="text">Критические user-flows</text>
+
+</svg>

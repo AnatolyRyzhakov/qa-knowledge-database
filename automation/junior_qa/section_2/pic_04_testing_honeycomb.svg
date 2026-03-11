@@ -1,0 +1,41 @@
+<svg width="720" height="640" viewBox="0 0 720 640" xmlns="http://www.w3.org/2000/svg">
+
+<style>
+.title { font-family: Arial, sans-serif; font-size: 24px; font-weight: bold; fill:#222; text-anchor: middle;}
+.label { font-family: Arial, sans-serif; font-size: 18px; font-weight: bold; fill:#222; text-anchor: middle;}
+.text { font-family: Arial, sans-serif; font-size: 14px; fill:#222; text-anchor: middle;}
+</style>
+
+<!-- TITLE -->
+<text x="360" y="40" class="title">Testing Honeycomb</text>
+
+<!-- OUTER HEXAGON -->
+<polygon points="360,110 540,210 540,430 360,530 180,430 180,210"
+fill="#f3c34d" stroke="#c99b1c" stroke-width="6"/>
+
+<!-- TOP SEGMENT -->
+<polygon points="270,210 450,210 500,280 220,280"
+fill="#c62828"/>
+
+<text x="360" y="245" class="label">Integrated / E2E</text>
+<text x="360" y="265" class="text">Почти отсутствуют</text>
+<text x="360" y="282" class="text">Трудно диагностировать падения</text>
+
+<!-- MIDDLE SEGMENT -->
+<polygon points="220,280 500,280 480,360 240,360"
+fill="#fb8c00"/>
+
+<text x="360" y="315" class="label">Integration</text>
+<text x="360" y="335" class="text">Главный фокус микросервисов</text>
+<text x="360" y="352" class="text">HTTP • Database • Service communication</text>
+<text x="360" y="368" class="text">Contract Testing</text>
+
+<!-- BOTTOM SEGMENT -->
+<polygon points="240,360 480,360 440,430 280,430"
+fill="#2e7d32"/>
+
+<text x="360" y="395" class="label">Implementation Details</text>
+<text x="360" y="415" class="text">Unit tests — немного</text>
+<text x="360" y="432" class="text">Только сложная логика</text>
+
+</svg>

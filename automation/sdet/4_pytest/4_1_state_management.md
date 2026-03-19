@@ -117,6 +117,6 @@ async def async_api_client():
 
 ### 📚 Sources (Источники)
 1. [pytest fixtures: explicit, modular, scalable — pytest documentation](https://docs.pytest.org/en/latest/explanation/fixtures.html)
-2. [Supercharging Your Tests: Pytest Fixtures for Reusable Setup and Teardown — Dev.to](https://dev.to/pavanbelagatti/supercharging-your-tests-pytest-fixtures-for-reusable-setup-and-teardown-36ed)
-3. [Async Testing with Pytest: Mastering pytest-asyncio and Event Loops — Medium](https://medium.com/@hashblock/async-testing-with-pytest-mastering-pytest-asyncio-and-event-loops-for-fastapi-and-beyond-1a2b3c)
-4. [Unit Testing Anti-patterns Catalogue / Flaky Tests — StackOverflow Engineering](https://stackoverflow.com/questions/3131/unit-testing-anti-patterns-catalogue)
+2. [Supercharging Your Tests: Pytest Fixtures for Reusable Setup and Teardown — Dev.to](https://dev.to/bshadmehr/supercharging-your-tests-pytest-fixtures-for-reusable-setup-and-teardown-3a2b)
+3. [Async Testing with Pytest: Mastering pytest-asyncio and Event Loops — Medium](https://medium.com/@connect.hashblock/async-testing-with-pytest-mastering-pytest-asyncio-and-event-loops-for-fastapi-and-beyond-37c613f1cfa3)
+4. [Unit Testing Anti-patterns Catalogue / Flaky Tests — StackOverflow Engineering](https://stackoverflow.com/questions/333682/unit-testing-anti-patterns-catalogue)

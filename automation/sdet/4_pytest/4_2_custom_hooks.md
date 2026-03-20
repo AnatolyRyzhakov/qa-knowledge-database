@@ -121,8 +121,8 @@ def pytest_runtest_makereport(item, call):
 ***
 
 ### 📚 Sources (Источники)
-1. [Basic patterns and examples — pytest documentation (Good Integration Practices)](https://docs.pytest.org/en/latest/how-to/recipes.html)
-2. [Green DevOps Practices: Your CI/CD Pipeline is Burning More Carbon Than Your Production Code | by The_Architect (Feb 2026)](https://levelup.gitconnected.com/green-devops-practices-your-ci-cd-pipeline-is-burning-more-carbon-than-your-production-code-19967c51dd2a)
-3. [PyTest & Allure: Screenshot of failure in Allure report (Stack Overflow)](https://stackoverflow.com/questions/49573883/pytest-allure-screenshot-of-failure-in-allure-report)
-4. [Pytest Documentation Overview | API Reference & Call Phases (Scribd)](https://www.scribd.com/document/561085202/pytest)
-5. [How to Handle pytest Markers and `pytest_collection_modifyitems` (OneUptime, Feb 2026)](https://oneuptime.com/blog/pytest-markers/)
+1. [Basic patterns and examples — pytest documentation (Good Integration Practices)](https://docs.pytest.org/en/stable/example/simple.html)
+2. [Green DevOps Practices: Your CI/CD Pipeline is Burning More Carbon Than Your Production Code | by The_Architect (Feb 2026)](https://levelup.gitconnected.com/green-devops-practices-your-ci-cd-pipeline-is-burning-more-carbon-than-your-production-code-884255499bc2)
+3. [PyTest & Allure: Screenshot of failure in Allure report (Stack Overflow)](https://stackoverflow.com/questions/49576504/pytest-allure-screenshot-of-failure-in-allure-report)
+4. [Pytest Documentation Overview | API Reference & Call Phases (Scribd)](https://www.scribd.com/document/713921596/pytest)
+5. [How to Handle pytest Markers and `pytest_collection_modifyitems` (OneUptime, Feb 2026)](https://oneuptime.com/blog/post/2026-02-02-pytest-markers-guide/view)

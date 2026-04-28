@@ -74,3 +74,9 @@ Code Review (ревью кода) не должно быть токсичным.
 
 ---
 Sources:
+1. [AI in QA: What leading quality experts want every team to know](https://www.tricentis.com/blog/ai-in-qa-decision-intelligence)
+2. [Release Risk Is a Business Risk: How Modern QA Leaders Are Reframing the Conversation with the C-Suite](https://www.functionize.com/blog/release-risk-is-business-risk)
+3. [The 2026 SDET Survival Guide — Why I’m Moving My Cohorts Away from Selenium and Toward These 8 Tools](https://medium.com/codetodeploy/the-2026-sdet-survival-guide-why-im-moving-my-cohorts-away-from-selenium-and-toward-these-8-f2e0a72bb86f)
+4. [AI in Software Testing 2026: The QA to SDET Transition](https://quashbugs.com/blog/qa-to-sdet-ai-2026)
+5. [Fellowship Program in QA Automation With AI (SDET)](https://www.crio.do/qa-automation-testing/)
+6. [What Are QA Lead Responsibilities in 2026? How One Role Transforms Your Project](https://www.qamadness.com/what-are-qa-lead-responsibilities-in-2026/)
